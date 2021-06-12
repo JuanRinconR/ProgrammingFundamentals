@@ -13,6 +13,8 @@ def find_if_odd_num(num_list):
 
     return odd_numbers
 
+#estoespara quese modificqui luego
+
 if __name__ == "__main__":
     print("Example of code with input [422, 136, 524, 85, 96, 719, 85, 92, 10, 17, 312,"
           "542, 87, 23, 86, 191, 116, 35, 173, 45, 149, 59, 84, 69, 113, 166]")
